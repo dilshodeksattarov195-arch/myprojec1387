@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "productpalidate",
+        "uuid": 12922679,
+        "checksum": "02yy7"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
